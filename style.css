@@ -1,0 +1,48 @@
+
+body{
+    background-color: blue;
+ }
+
+#increaseBtn{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 3rem;
+}
+#decreaseBtn{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 3rem;
+}
+#resetBtn{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 3rem;
+}
+#noBtn{
+    text-align: center;
+    font-size: 5rem;
+}
+.cont{
+    padding-left: 580px;
+}
+#increaseBtn:hover{
+    background-color: blue;
+    transition: 2s;
+}
+#resetBtn:hover{
+    background-color: blue;
+    transition: 2s;
+}
+#decreaseBtn:hover{
+    background-color: blue;
+    transition: 2s;
+}
